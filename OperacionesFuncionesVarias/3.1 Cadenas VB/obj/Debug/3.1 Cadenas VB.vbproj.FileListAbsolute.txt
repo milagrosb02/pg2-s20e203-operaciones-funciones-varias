@@ -1,0 +1,10 @@
+M:\correcciones vb\OperacionesFuncionesVarias\3.1 Cadenas VB\bin\Debug\3.1 Cadenas VB.exe.config
+M:\correcciones vb\OperacionesFuncionesVarias\3.1 Cadenas VB\bin\Debug\3.1 Cadenas VB.exe
+M:\correcciones vb\OperacionesFuncionesVarias\3.1 Cadenas VB\bin\Debug\3.1 Cadenas VB.pdb
+M:\correcciones vb\OperacionesFuncionesVarias\3.1 Cadenas VB\bin\Debug\3.1 Cadenas VB.xml
+M:\correcciones vb\OperacionesFuncionesVarias\3.1 Cadenas VB\obj\Debug\3.1 Cadenas VB.vbprojResolveAssemblyReference.cache
+M:\correcciones vb\OperacionesFuncionesVarias\3.1 Cadenas VB\obj\Debug\_3._1_Cadenas_VB.Resources.resources
+M:\correcciones vb\OperacionesFuncionesVarias\3.1 Cadenas VB\obj\Debug\3.1 Cadenas VB.vbproj.GenerateResource.Cache
+M:\correcciones vb\OperacionesFuncionesVarias\3.1 Cadenas VB\obj\Debug\3.1 Cadenas VB.exe
+M:\correcciones vb\OperacionesFuncionesVarias\3.1 Cadenas VB\obj\Debug\3.1 Cadenas VB.xml
+M:\correcciones vb\OperacionesFuncionesVarias\3.1 Cadenas VB\obj\Debug\3.1 Cadenas VB.pdb

@@ -1,0 +1,10 @@
+M:\correcciones vb\OperacionesFuncionesVarias\5.2 FinDeAño VB\bin\Debug\5.2 FinDeAño VB.exe.config
+M:\correcciones vb\OperacionesFuncionesVarias\5.2 FinDeAño VB\bin\Debug\5.2 FinDeAño VB.exe
+M:\correcciones vb\OperacionesFuncionesVarias\5.2 FinDeAño VB\bin\Debug\5.2 FinDeAño VB.pdb
+M:\correcciones vb\OperacionesFuncionesVarias\5.2 FinDeAño VB\bin\Debug\5.2 FinDeAño VB.xml
+M:\correcciones vb\OperacionesFuncionesVarias\5.2 FinDeAño VB\obj\Debug\5.2 FinDeAño VB.vbprojResolveAssemblyReference.cache
+M:\correcciones vb\OperacionesFuncionesVarias\5.2 FinDeAño VB\obj\Debug\_5._2_FinDeAño_VB.Resources.resources
+M:\correcciones vb\OperacionesFuncionesVarias\5.2 FinDeAño VB\obj\Debug\5.2 FinDeAño VB.vbproj.GenerateResource.Cache
+M:\correcciones vb\OperacionesFuncionesVarias\5.2 FinDeAño VB\obj\Debug\5.2 FinDeAño VB.exe
+M:\correcciones vb\OperacionesFuncionesVarias\5.2 FinDeAño VB\obj\Debug\5.2 FinDeAño VB.xml
+M:\correcciones vb\OperacionesFuncionesVarias\5.2 FinDeAño VB\obj\Debug\5.2 FinDeAño VB.pdb
